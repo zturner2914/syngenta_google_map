@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col-sm",
+				"col-sm-6"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"sectio",
+				"sectionTitle"
+			],
+			[
+				"hd",
+				"hidden-sm"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padi",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "package in",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"brac",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGP8100_Advion_CRGB_PCT_eblast/index.html",
+		"/Users/zach.turner/Documents/work/syngeta_website/googlemap/js/script.js",
+		"/Users/zach.turner/Documents/work/syngeta_website/googlemap/main.js",
+		"/Users/zach.turner/Downloads/2018_HRT_Construction Equipment_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/triple-ink-wp/wp-content/themes/tripleink/index.php",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGG8033_NCGOA_SBI_eblast/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53AB7009_FSD_Scotch_Brite_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53AB7009_FSD_Scotch_Brite_eBlast copy/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGP7050_PP365_PMP_eblast/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND8106_3MOC_SmileLookBook/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND8101_3MOralCare_Direct_Procedure_Pennwell_eBlast/qual.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND8101_3MOralCare_Direct_Procedure_Pennwell_eBlast/index.html",
+		"/Users/zach.turner/Library/Caches/Cleanup At Startup/Transmit/7A3B5B27-4FFF-4216-98F6-76020B616449/wp-config.php",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGT8005_L&L_3_21_Lead_Gen_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1APR8006_Aprovia_Pome_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1ELA8006_Elatus_Potato_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGT8005_lead_eblast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGP8015_PP365_PCT_March_6_eblast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGP8015_PP365_PCT_March_1_eblast_DEV/index.html",
+		"/Users/zach.turner/Downloads/zturner2914.github.io-master/assets/css/stylesheet.css",
+		"/Users/zach.turner/Documents/work/turfco/1TRF8009_Updated Eblast/index.html",
+		"/Users/zach.turner/Documents/work/themint/js/main.js",
+		"/Users/zach.turner/Documents/work/themint/talent.html",
+		"/Users/zach.turner/Documents/work/themint/contact.html",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-content/themes/tripleink/functions.php",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1AGT7012_Duracade_Ag_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1AGT7012_Duracade_eBlast_GH_v2/index.html",
+		"/Volumes/review/external/mw2016/js/drag-slider.js",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1AGT7012_Duracade_eBlast_GH/index.html",
+		"/Volumes/review/external/holiday-invite-17/inc/form.php",
+		"/Users/zach.turner/Documents/work/holiday-invite-17/css/form.css",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGP7052_PP365_PCT_eBLAST/index.html",
+		"/Users/zach.turner/Documents/work/syngeta_website/ag-term/js/main.js",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGG7063_SportsTurf_GT365_eBLAST/index.html",
+		"/Users/zach.turner/Desktop/code_challenge-master/server/app.js",
+		"/Volumes/review/external/goldenharvest/js/main.js",
+		"/Volumes/review/external/goldenharvest/css/main.css",
+		"/Volumes/mw/clients/martin_williams/2017/jobs/1mws7020-mint_website/3_creative/2_working/assets/Left_bar.svg",
+		"/Volumes/mw/clients/martin_williams/2017/jobs/1mws7020-mint_website/3_creative/2_working/assets/Nav_left2.svg",
+		"/Users/zach.turner/Documents/work/mint/img/Content_white.svg",
+		"/Users/zach.turner/Documents/work/mint/js/main.js",
+		"/Volumes/review/external/mw2016/css/main.css",
+		"/Users/zach.turner/Documents/work/mint/css/stylesheet.css",
+		"/Volumes/review/external/tripleink/wp-content/themes/tripleink/js/header.js",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-content/themes/tripleink/js/header.js",
+		"/Users/zach.turner/Desktop/revert tripleink/stylesheet.css",
+		"/Users/zach.turner/Downloads/modernizr-custom (1).js",
+		"/Volumes/review/external/tripleink/wp-content/themes/tripleink/css/body_styles.css",
+		"/Users/zach.turner/Documents/work/syngenta/eblasts/1LGG7048_CPR_eblast/index.html",
+		"/Users/zach.turner/Desktop/lineeees.css",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-content/themes/tripleink/index.php",
+		"/Volumes/review/external/KC/53AB7008_3MAbrasives_MC_eBLAST/_extranet.xml",
+		"/Volumes/review/external/Syngenta/1LMS6012_PestPatrol_DigitalBanners/_extranet.xml",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-content/themes/tripleink/templates/contact-template.php",
+		"/Volumes/review/external/Syngenta/1LGP7017_Advion_Optigard_banners/_extranet.xml",
+		"/Volumes/review/external/Syngenta/1LGG7047_CPR_Banners/_extranet.xml",
+		"/Volumes/review/external/Syngenta/1MNP7011_Minecto_Pro_banners/1MNP7011_Minecto_Pro_Animated_Banners_300x250/index.html",
+		"/Volumes/review/external/goldenharvest/css/fonts/fonts.css",
+		"/Volumes/review/external/Basilica/wp-content/themes/basilicablockparty/css/typography.css",
+		"/Volumes/review/external/Kubota/1KUB7033_Kubota_finance_construction_eblast/_extranet.xml",
+		"/Volumes/review/external/KC/53AB7009_Aero_Scotch_Brite_eBlast/_extranet.xml",
+		"/Volumes/review/external/Kubota/1KUB7033_Kubota_finance_rental_eblast/_extranet.xml",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-content/themes/tripleink/style.css",
+		"/Users/zach.turner/Documents/work/triple_wordpress/wp-config.php",
+		"/Users/zach.turner/Documents/work/tripleWordpress/wp-config.php",
+		"/Users/zach.turner/Documents/work/triple ink/js/select2.js",
+		"/Users/zach.turner/Documents/work/syngeta_website/sugarbeet-calculator revised/assets/js/sugarbeet-select.js",
+		"/Users/zach.turner/Documents/work/syngeta_website/sugarbeet-calculator revised/assets/js/select2.js",
+		"/Users/zach.turner/Downloads/modernizr-custom.js",
+		"/Users/zach.turner/Library/Caches/Cleanup At Startup/Transmit/3A8BDB59-58FA-4B60-97E2-5F9CC39428F4/index.asp",
+		"/Users/zach.turner/Documents/work/syngeta_website/error_page/style.css",
+		"/Users/zach.turner/Documents/work/turfco/1TRF7007_Turfco_eblast/1TRF7007_Turfco eblast.html",
+		"/Volumes/review/external/Syngenta/error_page/style.css",
+		"/Volumes/review/external/Syngenta/error_page/index.html",
+		"/Volumes/review/external/SyngentaLG/1LGP6034_mosquito_assurance_july_eblast/index.html",
+		"/Users/zach.turner/Documents/work/syngeta_website/corn-calculator/index_corn_calculator.html",
+		"/Users/zach.turner/Documents/work/experianBannerPractice/script.js",
+		"/Volumes/review/external/experian/banner_crosscore/index.html",
+		"/Volumes/review/external/experian/banner_crosscore/js/vendor/html5shiv.js",
+		"/Volumes/review/external/experian/banner_crosscore/js/main.js",
+		"/Users/zach.turner/Documents/ega/assets/js/enogen_profit_calc.js",
+		"/Users/zach.turner/Documents/work/experianBannerPractice/css/style.css",
+		"/Users/zach.turner/Documents/ega/assets/css/ega_pages.css",
+		"/Volumes/review/external/Syngenta/1ACU7005_Acuron_flexi_resize_banner_160x600_dev/_extranet.xml",
+		"/Users/zach.turner/Documents/work/syngenta/1LGG7009_GIS_eBLAST/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/1LGP031_ASSURANCE_PCT_eblast/1LGP031_ASSURANCE_PCT_eblast.html",
+		"/Volumes/review/external/Syngenta/1LGP7005 _PP365_animated_banners/_extranet.xml",
+		"/Users/zach.turner/Documents/corn-calculator/assets/css/corn-calculator.css",
+		"/Users/zach.turner/Documents/sugarbeet-calculator revised/index_sugarbeet_calculator.html",
+		"/Users/zach.turner/Documents/sugarbeet-calculator/index_sugarbeet_calculator.html",
+		"/Users/zach.turner/Documents/sugarbeet-calculator 2/assets/css/sugarbeet-calculator.css",
+		"/Users/zach.turner/Documents/sugarbeet-calculator 2/index_sugarbeet_calculator.html",
+		"/Users/zach.turner/Documents/ega/index_ega.html",
+		"/Users/zach.turner/Documents/sugarbeet-calculator 2/assets/css/current_style.css",
+		"/Users/zach.turner/Documents/corn-calculator/assets/js/corn-calculator.js",
+		"/Users/zach.turner/Documents/sugarbeet-calculator/assets/js/enogen_profit_calc.js",
+		"/Users/zach.turner/Documents/corn_calculator/index_corn_calculator.html",
+		"/Users/zach.turner/Documents/corn_calculator/assets/css/sugarbeet-calculator.css",
+		"/Users/zach.turner/Documents/corn_calculator/assets/js/states.js",
+		"/Users/zach.turner/Documents/corn_calculator/assets/js/enogen_profit_calc.js",
+		"/Users/zach.turner/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/zach.turner/Documents/corn_calculator/assets/css/ddarrows.jpg",
+		"/Volumes/review/external/Syngenta/product-selector-2016/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND6044_CDEWorld_eBlast/_extranet.xml",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND6044_IDT_eBlast/_extranet.xml",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND6044_IDT_eBlast/index.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND6044_CDEWorld_eBlast/index.html",
+		"/Volumes/review/external/Syngenta/1AGT6010_Agrisure_Viptera_Banners/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/1LGP6047_PP365_Fall_Reminder_eBLAST/horton.html",
+		"/Users/zach.turner/Documents/work/syngenta/1LGP6047_PP365_Fall_Reminder_eBLAST/index.html",
+		"/Volumes/review/external/Syngenta/seed-pages/seed-homepage.html",
+		"/Volumes/review/external/Syngenta/ega/_extranet.xml",
+		"/Users/zach.turner/Documents/ega/assets/css/enogen_pages.css",
+		"/Users/zach.turner/Downloads/EGA_resizedImage_768X217.jpg",
+		"/Users/zach.turner/Documents/ega/assets/images/enogen/main/1-content-corn.jpg",
+		"/Users/zach.turner/Documents/ega/assets/css/jquery.svg.css",
+		"/Users/zach.turner/Documents/ega/assets/images/enogen/grower/ega-feature-hero.jpg",
+		"/Users/zach.turner/Desktop/enogen-grower/index_grower.html",
+		"/Users/zach.turner/Documents/work/3m Oral Care/53ND6031_3MPreventive_eBlast/index.html",
+		"/Volumes/review/external/Syngenta/1LGP6037_PP365_banners/index.html",
+		"/Volumes/review/external/Syngenta/1LGP6037_PP365_banners/_extranet.xml",
+		"/Volumes/review/internal/tandem_practice/index.html",
+		"/Users/zach.turner/Documents/work/syngenta/SBP6005_Soybean_Herbicide_eBlast/index.html",
+		"/Volumes/review/external/Syngenta/1NKB6011_banners/_extranet.xml",
+		"/Users/zach.turner/Documents/work/syngenta/1ORO6011_Orondis_Veg_eBlast/index.html",
+		"/Users/zach.turner/Desktop/school.js",
+		"/Volumes/review/external/Syngenta/1LGP6038_PP365_FALL_eBLAST/_extranet.xml",
+		"/Users/zach.turner/Documents/work/syngenta/1LGP6038_PP365_FALL_eBLAST_2/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"hamburger-icon",
+			"overflow",
+			"overflow-y",
+			"overflow-y: scroll",
+			"mobile-open",
+			"page1",
+			"gwd-page-content",
+			"$.each",
+			"regis",
+			"a href",
+			"enogen",
+			"img",
+			"margin-left",
+			"download",
+			"bottom-margin",
+			"table",
+			"calc-table",
+			"results",
+			"select-box",
+			"calc",
+			"profit-calculator",
+			"calculator-container",
+			"pageTitle",
+			"page-content",
+			"results-b",
+			"form",
+			"padding-right",
+			"results",
+			"results-box",
+			"profit-calculator",
+			"calculator-container",
+			"profit-calculator",
+			"spacer",
+			"<div class=\"download-container hidden-xs\">\n                        <a href=\"#\" class=\"print-save\">Save or Print</a>\n                      </div>",
+			"results",
+			"results-box",
+			"media",
+			"results-box",
+			"results",
+			".enogen #profit-calculator .download-container",
+			"fields",
+			".enogen #profit-calculator input[type=\"number\"]",
+			".enogen #profit-calculator .download-container",
+			".enogen #profit-calculator input[type=\"submit\"]",
+			"download-container",
+			"display",
+			"download",
+			"enogen",
+			"enogen-profit",
+			"id",
+			"div",
+			".enogen #profit-calculator .results-b table",
+			"equat",
+			"unset",
+			"bullet",
+			"bulletTitle",
+			"form-number",
+			"number",
+			".enogen #profit-calculator .results-a",
+			"span",
+			".heroContainer",
+			"chart",
+			"charts",
+			"bold",
+			"small",
+			"heroImage",
+			"section",
+			"heroCaption",
+			"heroTitle",
+			"hidden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sugarbeet",
+			"sugarbeet-calculator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
